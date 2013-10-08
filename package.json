@@ -18,6 +18,5 @@
     "type": "git",
     "url": "https://github.com/madprgmr/grunt-watch-helper.git"
   },
-  "devDependencies": {
-  }
+  "main": "grunt-watch-helper.js"
 }

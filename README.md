@@ -39,7 +39,7 @@ grunt.initConfig({
 });
 
 
-require('./grunt-watch-helper.js')(grunt, ['less']);
+require('grunt-watch-helper')(grunt, ['less']);
 ```
 
 ## TODO
