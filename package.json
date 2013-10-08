@@ -1,0 +1,23 @@
+{
+  "name": "grunt-watch-helper",
+  "version": "0.1.0",
+  "description": "Reduces unnecessary rebuilding of source files in watch tasks.",
+  "author": "Sean Hussey",
+  "private": true,
+  "keywords": [
+    "grunt",
+    "watch"
+  ],
+  "contributors": [
+    {
+      "name": "Sean Hussey",
+      "email": "madprgmr@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madprgmr/grunt-watch-helper.git"
+  },
+  "devDependencies": {
+  }
+}
